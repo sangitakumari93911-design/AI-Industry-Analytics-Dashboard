@@ -23,3 +23,11 @@ The screenshot below showcases the interactive Power BI dashboard developed to a
 <p align="center">
   <img src="images/AI_Industry_Analytics_Dashboard.png" alt="AI Industry Analytics Dashboard" width="900">
 </p>
+
+## 📸 Dashboard Preview
+
+### AI Industry Analytics Dashboard
+
+The screenshot below showcases the interactive Power BI dashboard developed to analyze AI industry performance across countries, industries, and territories. It highlights key business metrics, revenue distribution, workforce analysis, geographic insights, and dynamic filtering capabilities through an intuitive and visually engaging interface.
+
+<img width="2880" height="1800" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/2f8767b3-333a-40d9-b697-d31469953b43" />
