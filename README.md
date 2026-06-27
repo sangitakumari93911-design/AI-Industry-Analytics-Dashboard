@@ -13,3 +13,13 @@ Developed an end-to-end AI Industry Analytics Dashboard in Power BI to provide c
 📉 Scatter Plot for Revenue vs. Employee Count Analysis
 🍩 Territory-wise Revenue Distribution
 ⚡ Dynamic, Interactive & Business-Oriented Reporting
+
+## 📸 Dashboard Preview
+
+### AI Industry Analytics Dashboard
+
+The screenshot below showcases the interactive Power BI dashboard developed to analyze AI industry performance across countries, industries, and territories. It highlights key business metrics, revenue distribution, workforce analysis, geographic insights, and dynamic filtering capabilities through an intuitive and visually engaging interface.
+
+<p align="center">
+  <img src="images/AI_Industry_Analytics_Dashboard.png" alt="AI Industry Analytics Dashboard" width="900">
+</p>
